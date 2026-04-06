@@ -1,2 +1,2 @@
 { "keys": { "SITTA-XXXX": "" } }                         // flat (เดิม)
-{ "keys": { "SITTA-XXXX": { "hwid": "", "expiry": "2026-12-31" } } }  // object (ใหม่)
+{ "keys": { "SITTA-XXXX": { "hwid": "", "expiry": "2029-12-31" } } }  // object (ใหม่)
