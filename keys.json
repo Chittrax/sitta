@@ -5,7 +5,10 @@
       "days": 365,
       "status": "active",
       "max_pc": 2,
-      "hwids": ["F7389E3AA4EFF65A"]
+      "hwids": [
+        { "id": "A1B2C3D4E5F6G7H8", "activated_at": "2026-04-07" },
+        { "id": "X1Y2Z3W4V5U6T7S8", "activated_at": "2026-03-01" }
+      ]
     }
   ]
 }
