@@ -2,7 +2,8 @@
   "keys": {
     "SITTA-A3F7-KX92-M1PQ": {
       "hwid": "",
-      "expiry": "2029-05-05"
+      "days": 30,
+      "activatedAt": ""
     },
     "SITTA-BZ64-RN58-T2WE": {
       "hwid": "178BFBFF00A20F12",
