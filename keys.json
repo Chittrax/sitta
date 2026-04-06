@@ -1,16 +1,2 @@
-{
-  "keys": {
-    "SITTA-A3F7-KX92-M2PQ": {
-      "hwid": "",
-      "expiry": "2030-05-02"
-    },
-    "SITTA-BZ12-RN58-T1WE": {
-      "hwid": "",
-      "expiry": ""
-    },
-        "SITTA-BZ62-RN58-T1WE": {
-      "hwid": "",
-      "expiry": ""
-    },
-  }
-}
+{ "keys": { "SITTA-XXXX": "" } }                         // flat (เดิม)
+{ "keys": { "SITTA-XXXX": { "hwid": "", "expiry": "2026-12-31" } } }  // object (ใหม่)
