@@ -5,7 +5,7 @@
       "days": 365,
       "status": "active",
       "max_pc": 2,
-      "hwids": []
+      "hwids": ["F7389E3AA4EFF65A"]
     }
   ]
 }
