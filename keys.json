@@ -1,6 +1,7 @@
 {
   "keys": [
-    { "key": "SITTA-XXXX-YYYY-ZZZZ", "days": 365 },
-    { "key": "SITTA-AAAA-BBBB-CCCC", "days": 30 }
+    { "key": "SITTA-XXXX-YYYY-ZZZZ", "days": 365, "status": "active" },
+    { "key": "SITTA-AAAA-BBBB-CCCC", "days": 30,  "status": "banned" },
+    { "key": "SITTA-1111-2222-3333", "days": 90,  "status": "suspended" }
   ]
 }
