@@ -1,19 +1,6 @@
 {
-  "keys": {
-    "SITTA-LIFE-AAAA-1111": {
-      "hwid": "",
-      "days": -1,
-      "activatedAt": ""
-    },
-    "SITTA-LIFE-BBBB-2222": {
-      "hwid": "",
-      "days": -1,
-      "activatedAt": ""
-    },
-    "SITTA-NORMAL-1111": {
-      "hwid": "",
-      "days": 1,
-      "activatedAt": ""
-    }
-  }
+  "keys": [
+    "SITTA-XXXX-YYYY-ZZZZ",
+    "SITTA-AAAA-BBBB-CCCC"
+  ]
 }
