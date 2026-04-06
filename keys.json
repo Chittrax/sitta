@@ -1,6 +1,16 @@
 {
   "keys": {
-    "SITTA-AAAA-BBBB-CCCC": "178BFBFF00A20F12",
-    "SITTA-DDDD-EEEE-FFFF": ""
+    "SITTA-A3F7-KX92-M1PQ": {
+      "hwid": "",
+      "expiry": "2026-12-31"
+    },
+    "SITTA-BZ64-RN58-T2WE": {
+      "hwid": "",
+      "expiry": ""
+    },
+    "SITTA-CY19-DP37-J6VH": {
+      "hwid": "",
+      "expiry": ""
+    }
   }
 }
