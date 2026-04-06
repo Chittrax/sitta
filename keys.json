@@ -5,7 +5,9 @@
       "days": 365,
       "status": "active",
       "max_pc": 2,
-      "hwids": []
+      "hwids": [
+        {"id":"F7389E3AA4EFF65A","activated_at":"2569-04-06"}
+      ]
     },
     {
       "key": "SITTA-K7M2-P9X4-R3W8",
