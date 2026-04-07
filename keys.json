@@ -14,7 +14,9 @@
       "days": 7,
       "status": "active",
       "max_pc": 1,
-      "hwids": []
+      "hwids": [
+        {"id":"9FFA8538F987C894","activated_at":"2026-04-07T02:46:36"}
+      ]
     }
   ]
 }
